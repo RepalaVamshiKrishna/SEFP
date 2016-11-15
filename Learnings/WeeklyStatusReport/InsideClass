@@ -65,3 +65,44 @@ Week 8 - 30/09/2016 - UML Diagrams, Pattern based designs
     Got the some knowledge about the Gang of four forms and Different forms of pattern (Alexandar form, GOF form, Pedogolical form).
 #6. Learnt some knowlege on the factory pattern, factory method, abstract factory, memento pattern.  
 
+Week 9 - 07/10/2016  
+****************** Mid Sem-2 Examinations **************
+
+Week 10 - 14/10/2016 - Testing (By Arihant Sir)
+
+* Learned about different kinds of testing : Exhaustive, Selective, Integration and Unit testing ....etc
+* About functional, Statement and Path coverage
+* Heard about the equivalence Classes!
+* Worked out the testing on prime no. function as integration testing !
+
+Week 11 - 21/10/2016 - Software Architecture
+
+* Learnt about the importance of Software architecture in developing a software product.
+* About the patterns and Structures and model of an architecture  
+* Worked out the practicle example on architecture of 'GITHUB' from Open Source architecture!!
+
+Week 12 - 28/10/2016 - Software Architecture
+
+Learnt -
+* About the set of principal design decisions on system.
+* Formal definations on S/W architecture by perry & garaln.
+* Prescriptive Architectue (Proposed) Vs Descriptive Architecture
+* Different kinds of architecture Styles and patterns 
+
+Week 13 - 4/11/2016 - Code Inspections
+
+* How code was inspected with a group having Inspector, Author, Moderator, Code reader and Scribe?
+* Watched out the good video on how actual code inspection has done?
+* learnt how code inspected after worked out the code inspection on given code!
+* Heard about the project deepSpec!
+
+Week 14 - 11/11/2016 - Patterns and Code Construction
+
+#1 Got the basic view on adapter and proxy patterns with practical examples of power Sockets and 
+   proxy attendance respective analogies!
+#2 Before writing the code what are the ways,tools, Connectors, databases and debuggers to construct the code to
+   solve given problem.
+#3 Learned about the Test Driven Development on software.
+
+
+
